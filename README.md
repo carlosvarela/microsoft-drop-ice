@@ -200,6 +200,7 @@ Signed,
 1.  Tyler Thompson [@tptee](https://github.com/tptee)
 1.  Umayah Abdennabi [@sudohalt](https://github.com/sudohalt)
 1.  Valentin Iovene [@tgy](https://github.com/tgy)
+1.  Carlos Varela [@carlosvarela](https://github.com/carlosvarela)
 1.  Victor Saiz [@vectorsize](https://github.com/vectorsize)
 1.  Vinicius Rodrigues [@Suburbanno](https://github.com/Suburbanno)
 1.  vøid [@makmm](https://github.com/makmm)
